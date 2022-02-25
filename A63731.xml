@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of the tryals at the sessions of oyer and terminer, held for the city of London, county of Middlesex, and goale delivery of Newgate; which began in the Old-Bailey the 17th of this instant January, and ended the 18th of the same As particularly of Elizabeth Wigenton for whipping a girl to death at Ratcliffe. And John Peetly, for shooting a gentleman in Queen-street. Also the account of the proceedings with one John Bully a Popish priest. The number of the condemned, burnt in the hand, and to be whipped, with many other material tryals.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63731</idno>
+            <idno type="STC">Wing T3063</idno>
+            <idno type="STC">ESTC R222402</idno>
+            <idno type="EEBO-CITATION">99833580</idno>
+            <idno type="PROQUEST">99833580</idno>
+            <idno type="VID">38057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of the tryals at the sessions of oyer and terminer, held for the city of London, county of Middlesex, and goale delivery of Newgate; which began in the Old-Bailey the 17th of this instant January, and ended the 18th of the same As particularly of Elizabeth Wigenton for whipping a girl to death at Ratcliffe. And John Peetly, for shooting a gentleman in Queen-street. Also the account of the proceedings with one John Bully a Popish priest. The number of the condemned, burnt in the hand, and to be whipped, with many other material tryals.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:38057:1"/>
+            <pb n="1" facs="tcp:38057:1" rendition="simple:additions"/>
+            <head>THE True Relation OF THE TRYALS At the Seſſions of <hi>Oyer</hi> and <hi>Terminer,</hi> Held for the City of <hi>London,</hi> County of <hi>Middleſex,</hi> and Goale Delivery of <hi>Newgate;</hi> which began in the <hi>Old-Bailey</hi> the 17th of this inſtant <hi>January,</hi> and ended the 18th of the ſame. As particularly of Elizabeth Wigenton FOR Whipping a Girl to Death at <hi>Ratcliffe.</hi>
+            </head>
+            <head type="sub">And <hi>John Peetly,</hi> for ſhooting a Gentleman in <hi>Queen-ſtreet.</hi> Alſo the Account of the Proceedings with one <hi>John Bully</hi> a Popiſh Prieſt. The Number of the Condemned, Burnt in the Hand, and to be Whipped, with many other material Tryals.</head>
+            <p>THE Seſſions began at the <hi>Old-Bailey,</hi> on Munday the 17th of this in<g ref="char:EOLhyphen"/>ſtant <hi>January,</hi> (being put off the Wedneſday before, by reaſon of the ſitting at <hi>Guildhal</hi>) where were theſe following proceedings. <hi>Eliza<g ref="char:EOLhyphen"/>beth Wigenton</hi> of <hi>Ratcliff</hi> Pariſh, was Tryed for the Murther of a Girl about Thirteen years of age, which was her Apprentice, the manner of the Murder being thus: She being by Trade a Coat-maker, and having ſet the Girl upon a Piece of Work, ſhe had not done it ſo well as ſhe required; whereupon, ſhe beat her grievouſly, the which not ſufficing her cruel rage, ſhe went and got a bun<g ref="char:EOLhyphen"/>dle of rods, (and a man to hold her) with which, after ſhe had bound her, ſhe whiped her ſo unmercifully, that the blood ran down like rain; yet could ſhe not be perſwaded to deſiſt, till the Girl fainted away with crying, and of her un<g ref="char:EOLhyphen"/>merciful uſage in a ſhort time dyed. Upon her Tryal ſhe pleaded little in her own defence, onely ſaying, that ſhe did not think to kill her. So that it being proved that ſhe had been a cruel Woman by all her Neighbours, ſhe was found guilty of wilful Murther.</p>
+            <p>
+               <hi>Katherine Neale</hi> was Tryed for ſtealing about Twenty yards of Perſian Silk out of a Mercers ſhop, which being taken upon her, ſhe was found guilty of the Fe<g ref="char:EOLhyphen"/>lony.</p>
+            <pb n="2" facs="tcp:38057:2"/>
+            <p>
+               <hi>Jane Yong</hi> was likewiſe found guilty for ſtealing Linnen from a Gentlewoman in the Pariſh of <hi>St. Sepulchres,</hi> to the value of nine ſhillings.</p>
+            <p>
+               <hi>Jane Harding,</hi> a notorious Shop-lift, was Indicted for feloniouſly entring the Houſe of <hi>Will. Smith,</hi> of the Pariſh of <hi>Botolfes</hi> without <hi>Biſhops-gate,</hi> and ſtealing Goods to the value of eight ſhillings and ſix pence, of which ſhe was found guilty.</p>
+            <p>
+               <hi>Jonathan Telcoat</hi> received his Tryal, being Indicted for the Murther of an aged woman; but upon Evidence it was found, that the woman being troubled with Fits, he being in the room, hit her head upon an Iron, which gave her a wound, of which ſhe dyed; ſo that his being there, cauſed this Indictment; but upon proof that he was not near her when ſhe fell, he was Acquitted.</p>
+            <p>
+               <hi>John Peetly</hi> Victualler, living in <hi>Whetſtones-park,</hi> was Arrained and Tryed for the Murder of one Mr. <hi>Gerard,</hi> Nephew, as 'tis ſaid, to my Lord <hi>Gerard;</hi> the cir<g ref="char:EOLhyphen"/>cumſtances of which, were theſe: The Party killed, with ſeveral other young Gentlemen, being late abroad, on the tenth of this inſtant in <hi>Holborn,</hi> took it in their way to come through <hi>Whetſtones-park,</hi> where ſpying Lights in <hi>Peetly</hi>'s houſe, they knocked hard at the door, and bid him open it, the which he refuſing, one or more of them, began to break the windows, and having Linkmen with them, they threw up lighted Links, the which, as <hi>Peetly</hi> ſaid, did ſet fire to ſome Linnen in a Cloſet, at which he being Allarumed, got his Carbine in his hand, charged with ſmall Bullets, and purſued them up great <hi>Queen-ſtreet,</hi> till they came to the upper end on't, where the ſtanding Watch had ſtayed them, and cauſed them to deliver their Swords, whenas <hi>Peetly</hi> thruſting among the croud, was puſhed by a Watch<g ref="char:EOLhyphen"/>man, and thereupon his piece went off, and ſhot the aforeſaid Gentleman in the Thigh, of which Wound he ſhortly dyed: but the Priſoner pleading that the Gun went off without his knowledge, he was Acquitted.</p>
+            <p>
+               <hi>Richard Johnſon,</hi> and <hi>John Cooper,</hi> two Chair-men, were Tryed for the Mur<g ref="char:EOLhyphen"/>der of one Mr. <hi>Waſhborn,</hi> whom they killed with exceſſive beating, on the ſecond of <hi>December;</hi> the cauſe of quarrel was their ruſhing him with their empty Chair, againſt the rails of <hi>Northumberland</hi>-houſe, near <hi>Charing-croſs,</hi> ſo that he ſtriking them with his Cane, they fell upon him, and gave him ſo many bruiſes, that he dyed within twelve days after: wherefore they were Convicted of Man-ſlaughter, there being no proof that he ſtruck them firſt.</p>
+            <p>
+               <hi>John Oliver,</hi> a French-man, who could ſpeak no Engliſh, was Indicted for break<g ref="char:EOLhyphen"/>ing into a Chamber, at <hi>Man's</hi> Coffee-houſe at <hi>Charing-croſs,</hi> and taking thence a Ring, ſome Lace, and other ſmall matters: he pretended, as his Interpreters ſaid, that he went there only to ſleep, when he was taken upon the ſtairs, but being ſearched, the things were found about him; but for want of the Conſtables Evi<g ref="char:EOLhyphen"/>dence, who ſearched him, he was found not guilty, by reaſon none gave Evidence againſt him in Court, or ſaw the things taken about him.</p>
+            <p>
+               <hi>Anne Ditcher,</hi> received her Tryal for ſtealing forty yards of Serge, and a Cam<g ref="char:EOLhyphen"/>paigne Coat out of the Shop of one Mr. <hi>Hatton</hi> in <hi>Drury-lane;</hi> the Diſcovery of the Robbery was by a little Boy, who being taken upon ſuſpition for hankering about the Shop, confeſſed that he knew where the Goods were, and that he would carry him to the place where they were ſold, which he did, being at a Bro<g ref="char:EOLhyphen"/>kers in <hi>Southwark.</hi> The Broaker being queſtioned how he came by them, brought out the woman. Upon her Tryal ſhe pleaded ſhe had them of a man, but he not being produced, ſhe was found guilty of the Felony.</p>
+            <p>
+               <hi>Anne Carter</hi> was Tryed for Felony and Burglary; for that ſhe on the 24th of <hi>September,</hi> about two of the clock in the morning, drawing up the Latch, entred the houſe of one <hi>Magdalen Wooff,</hi> and coming to her bed-ſide, took away her purſe with eleven ſhillings in it, and departed, the Proſecutor not daring to hin<g ref="char:EOLhyphen"/>der her for fear of her life: they gave very bad Characters of each other in Court, and railed at a high rate, but in fine, the priſoner was found guilty of the Felony.</p>
+            <pb n="3" facs="tcp:38057:2"/>
+            <p>
+               <hi>Thomas Boys</hi> was Indicted for ſtealing a Shirt, a Cravat, and a pair of worſted ſtockings; the which being confeſſed by him to have been ſtollen from one <hi>Ed<g ref="char:EOLhyphen"/>ward Steevens</hi> of <hi>Hounſtow,</hi> he was found guilty to the value of ten pence.</p>
+            <p>
+               <hi>Dorothy Mathews,</hi> an old Shop-lift, was Tryed for ſtealing about a pound and half of Silk, and near ſixty yards of Taffata Ribbon, and Ferrit, from one <hi>Eliza<g ref="char:EOLhyphen"/>beth Waite</hi> in <hi>Holborn.</hi> She coming into the Shop on the 19th of <hi>October,</hi> there being onely a little Girl in it, demanded where her Miſtreſs was? who told her, ſhe was gone into <hi>London;</hi> whereupon, ſhe deſired to ſee ſome Ribbon, which the Girl ſhewed her, but none would pleaſe, till ſhe had the box of Ribbon ſet before her, whenas one of her Accomplices coming in, and deſiring to ſee ſome likewiſe, held the Girl buſie, till ſhe ſtole the Goods aforeſaid; but ere ſhe could make her eſcape, being apprehended and carried before a Magiſtrate, the Goods were found about her; ſo that the proof being plain, ſhe was Convicted of the Felony.</p>
+            <p>
+               <hi>Eleanor Cockman</hi> was Tryed as being acceſſary to the Murther of one <hi>Smith,</hi> who was ſhot by one <hi>Orme,</hi> ſince flead, by reaſon a Watch which appertained to the De<g ref="char:EOLhyphen"/>ceaſed, was found in her cuſtody; but ſhe alleadging ſhe found it in the pocket of the dead man, whoſe breeches ſhe had to waſh, delivered her by the hands of his friends, ſhe was acquitted.</p>
+            <p>
+               <hi>Jobe Laud</hi> was Tryed for ſtealing a Mare, appertaining to <hi>Wiliam Gun,</hi> the which he had afterwards ſold to one <hi>Church;</hi> the bargain being made at the <hi>George</hi> in <hi>Leather-lane,</hi> the ſaid <hi>Church</hi> being taken upon her back, as he was ri<g ref="char:EOLhyphen"/>ding into the Countrey; but upon this Tryal, the party from whom ſhe was ſtole not appearing, the priſoner was acquitted of the Fellony.</p>
+            <p>
+               <hi>Frances Emington</hi> was Tryed for ſtealing about 600 weight of Red-wood from the Royal <hi>African</hi> Company, which was taken from on board a Lighter, lying in the River of <hi>Thames,</hi> the Hatches of the ſaid Lighter being broken open in the abſence of the Waiters. The wood being taken about a Month after, as he was conveying it by the help of Porters into <hi>Thames ſtreet,</hi> where he pretended he had ſold it to a dry Salter; and did ſo far impoſe upon his Apprentice, as to lodge ſome of it in his houſe, he being gone into the Country, ſo that the Fellony being plainly proved, he was found guilty.</p>
+            <p>
+               <hi>Blanch Thomas</hi> a ſervant-wench was Tryed and found guilty, for Robbing her Maſter <hi>William Palmer</hi> of <hi>St. Martins in the fields,</hi> of the Sum of Ten pounds, which his Wife had hid between the Mat and the bed; ſo that as ſhe was making the bed ſhe found it, and converted about three pounds of it to her own uſe, be<g ref="char:EOLhyphen"/>fore they miſſed it; but ſhe being apprehended for the ſame, delivered the other moiety. Her plea was, that ſhe found it, and therefore imagined it was lawfully hers, but that weak excuſe did not ſerve her turn.</p>
+            <p>
+               <hi>Thomas <g ref="char:V">Ʋ</g>nderthorp</hi> was Indicted for having Two Wives, <hi>vix. E<g ref="char:EOLhyphen"/>lizabeth Toogood,</hi> whom he Marryed at <hi>Dukes-place;</hi> and <hi>Dorothy Martin,</hi> which he ſince Marryed in <hi>Worceſterſhire,</hi> with whom he had a competent Portion. Both the Marriages were proved againſt him by ſeveral perſons, the former by the man that gave him in Marriage, and by ſeveral others, the latter by the Woman herſelf, who appea<g ref="char:EOLhyphen"/>red in Court, the former not appearing, but upon proof ſhe was a<g ref="char:EOLhyphen"/>live, he was Convicted of the Felony.</p>
+            <p>
+               <hi>John Bully,</hi> a Popiſh Prieſt, was brought to the Barr, and his Indictment read. To which he pleaded he had been Tried for the ſame Fact at <hi>Lancaſter,</hi> in <hi>Auguſt</hi> laſt, and that he ought not to be Tryed twice for the ſame. But in that the Opinion of the Court over-ruled him, intimating, that this Indictment being laid for his being a Prieſt, in <hi>October</hi> laſt, he might ſince the former have taken Orders from the See of <hi>Rome.</hi> Whereupon he had dir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction
+<pb n="4" facs="tcp:38057:3"/>to get Council, and put in his Plea, and Time allowed him for that purpoſe; but when he was brought to the Bar again, he made a long Apology, alleadged as before: So that at his humble Re<g ref="char:EOLhyphen"/>queſt, the Court thought fit to continue him untried till next Seſſions.</p>
+            <p>The Counteſs of <hi>Portland</hi> being brought into Court in her Sedan, having been a long time ſick, deſired to Traverſe her Indictment for Recuſancy, the which was allowed.</p>
+            <p>At this Seſſions there were Nine Perſons that received Sentence of Death; viz. <hi>Katharine Nevil, Eliz. Wiginton, Anne Dicher, Anne Carter, Dorothy Mathews, Blanch Thomas, Philip Demerry, Tho. Wicks,</hi> and <hi>James Dixon.</hi> Ten Burnt in the Hand. And Five to be Whipped.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
